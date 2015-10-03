@@ -1,1 +1,2 @@
 C:\Users\Jurnell\Documents\Visual Studio 2015\Projects\gameoflife\dotnet\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\chris\Documents\GitHub\conways-game-of-life-ClJarvis\dotnet\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
