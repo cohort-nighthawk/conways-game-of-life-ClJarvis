@@ -1,14 +1,19 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using GameOfLife;
+
 
 namespace GameOfLifeTest
 {
     [TestClass]
     public class NeighborTest
     {
-        public void HasNeighbor()
+        [TestMethod]
+        public void HasNeighborTest()
         {
-            bool neighbor = false;
+            bool Neighbor = false;
+            Assert.IsTrue(true);
+
         }
     }
 }

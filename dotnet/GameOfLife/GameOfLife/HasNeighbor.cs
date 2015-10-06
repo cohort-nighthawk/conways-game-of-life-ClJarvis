@@ -8,5 +8,7 @@ namespace GameOfLife
 {
     public class HasNeighbor
     {
+       
     }
+
 }
