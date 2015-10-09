@@ -11,7 +11,7 @@ namespace GameOfLifeTest
         [TestMethod]
         public void HasNeighborTest()
         {
-            bool Neighbor = false;
+            bool HasNeighbor = false;
             Assert.IsTrue(true);
         }
     }

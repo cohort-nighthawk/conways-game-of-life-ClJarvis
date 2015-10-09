@@ -7,9 +7,10 @@ namespace GameOfLifeTest
     public class CellTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void IsCellAlive()
         {
-
+          bool Alive = true;
+          Assert.IsFalse (false);
         }
     }
 }
