@@ -12,5 +12,12 @@ namespace GameOfLifeTest
           bool Alive = true;
           Assert.IsFalse (false);
         }
+
+        [TestMethod]
+        public void IsCellDead()
+        {
+            bool Dead = true;
+            Assert.IsFalse(false);
+        }
     }
 }
