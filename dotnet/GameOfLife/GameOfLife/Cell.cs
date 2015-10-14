@@ -19,6 +19,15 @@ namespace GameOfLife
             IsAlive = (num % 2 == 0);
            
         }
+
+        public int NumberOfNeighbors()
+            {
+            var rand = new Random();
+            var neighbors = rand.Next(1, 4);
+
+            return NumberOfNeighbors();
+            }
+             
     }
    
 }
