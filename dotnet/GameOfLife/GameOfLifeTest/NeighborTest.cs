@@ -15,10 +15,11 @@ namespace GameOfLifeTest
             Assert.IsTrue(true);
            // Assert.AreEqual(Cell.NumberOfNeighbors, 0);
         }
+
         [TestMethod]
         public void DoesNotHaveNeighborTest()
         {
-            bool DoesNotHaveNeighborTest = false;
+            bool DoesNotHaveNeighbor = false;
             Assert.IsTrue(true);
         }
     }
