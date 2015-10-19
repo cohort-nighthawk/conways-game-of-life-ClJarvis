@@ -11,7 +11,7 @@ namespace GameOfLifeTest
         public void DoesCellHaveOnlyOneNeighbor()
         {
             var num = new NumberOfNeighborsTest();
-            return Cell.NumberOfNeighbors();
+            //return Cell.NumberOfNeighbors();
             var expected = 1;
             Assert.AreEqual(expected, 1); 
         }
